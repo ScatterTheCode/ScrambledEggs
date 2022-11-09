@@ -1,3 +1,4 @@
+#!/bin/sh
 # For Tim to finish the script
 # Internal use at ScatterBurrow only
 # scatterburrow.com
